@@ -54,7 +54,7 @@ git clone https://github.com/OumaCavin/powerbi-dashboard-site.git
 
 2. Navigate to the project directory:
 
-```bash
+
 cd powerbi-dashboard-website
 
 
