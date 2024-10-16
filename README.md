@@ -30,7 +30,8 @@ This repository contains a simple website that embeds a live Power BI dashboard 
 
 ## Live Demo
 
-You can view the live demo of the dashboard [here](#).
+You can view the live demo of the dashboard [here](https://oumacavin.github.io/powerbi-dashboard-site/).
+
 
 ## Technology Stack
 
@@ -50,12 +51,13 @@ You can view the live demo of the dashboard [here](#).
 ```bash
 git clone https://github.com/OumaCavin/powerbi-dashboard-site.git
 
-1. 
-Navigate to the project directory:
 
+2. Navigate to the project directory:
+
+```bash
 cd powerbi-dashboard-website
 
-1. 
-Open index.html in your web browser to view the website locally.
+
+3. Open index.html in your web browser to view the website locally.
 
 
